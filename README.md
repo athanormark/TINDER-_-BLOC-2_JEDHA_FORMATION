@@ -1,5 +1,7 @@
 # Projet Speed Dating : Analyse Exploratoire pour Tinder
 
+> Analyse exploratoire de 8 378 rendez-vous de speed dating, projet de formation JEDHA.
+
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=fff)](#)
@@ -7,17 +9,11 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat)](#)
 [![JEDHA](https://img.shields.io/badge/JEDHA-blueviolet?style=flat)](#)
 
----
-
-## About
+## Contexte et rôle
 
 Projet réalisé dans le cadre de la certification **Jedha Bootcamp (Bloc 2 : Analyse Exploratoire de Données)**.
 
 L'équipe marketing de Tinder constate une baisse du nombre de matchs. Pour comprendre les mécanismes qui mènent à un "match", elle a organisé des sessions de **Speed Dating** accompagnées de questionnaires détaillés. L'objectif est d'identifier les facteurs réels du matching et de formuler des recommandations basées sur les données.
-
----
-
-## Contexte et rôle
 
 Projet de formation du bootcamp JEDHA (Data Fullstack, BLOC 2, analyse exploratoire). L'énoncé, le contexte métier et les données viennent de JEDHA ; Tinder est un cas d'étude pédagogique, sans lien avec l'entreprise ni mission réelle.
 
@@ -37,18 +33,7 @@ Ce dépôt rassemble mon travail sur ce cas : analyse exploratoire et visualisat
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/athanormark/TINDER-_-BLOC-2_JEDHA_FORMATION.git
-cd TINDER-_-BLOC-2_JEDHA_FORMATION
-pip install -r requirements.txt
-jupyter notebook notebook/TINDER.ipynb
-```
-
----
-
-## Pipeline
+## Fonctionnalités
 
 ```
 Dataset CSV (8 378 x 195)
@@ -59,6 +44,13 @@ Dataset CSV (8 378 x 195)
                → Visualisations interactives (Plotly / Seaborn)
                   → Recommandations stratégiques
 ```
+
+---
+
+## Stack
+
+- Langage : Python 3.10, Jupyter
+- Données et visualisation : pandas, NumPy, Matplotlib, seaborn, Plotly
 
 ---
 
@@ -87,6 +79,17 @@ Dataset CSV (8 378 x 195)
 </div>
 
 > Les modestes se sous-estiment, les confiants se surévaluent. La note reçue plafonne à ~7/10 quelle que soit l'auto-évaluation.
+
+---
+
+## Lancer le projet
+
+```bash
+git clone https://github.com/athanormark/TINDER-_-BLOC-2_JEDHA_FORMATION.git
+cd TINDER-_-BLOC-2_JEDHA_FORMATION
+pip install -r requirements.txt
+jupyter notebook notebook/TINDER.ipynb
+```
 
 ---
 
@@ -130,4 +133,4 @@ L'analyse répond à la problématique de Tinder : **pourquoi le nombre de match
 
 ## Auteur
 
-Athanor SAVOUILLAN · [GitHub](https://github.com/athanormark)
+Athanor Savouillan · [Réalisations](https://atelia-conseil.com/realisations/) · [GitHub](https://github.com/athanormark)

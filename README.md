@@ -1,4 +1,4 @@
-# Projet Speed Dating -- Analyse Exploratoire pour Tinder
+# Projet Speed Dating : Analyse Exploratoire pour Tinder
 
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=fff)](#)
@@ -11,9 +11,17 @@
 
 ## About
 
-Projet réalisé dans le cadre de la certification **Jedha Bootcamp (Bloc 2 -- Analyse Exploratoire de Données)**.
+Projet réalisé dans le cadre de la certification **Jedha Bootcamp (Bloc 2 : Analyse Exploratoire de Données)**.
 
 L'équipe marketing de Tinder constate une baisse du nombre de matchs. Pour comprendre les mécanismes qui mènent à un "match", elle a organisé des sessions de **Speed Dating** accompagnées de questionnaires détaillés. L'objectif est d'identifier les facteurs réels du matching et de formuler des recommandations basées sur les données.
+
+---
+
+## Contexte et rôle
+
+Projet de formation du bootcamp JEDHA (Data Fullstack, BLOC 2, analyse exploratoire). L'énoncé, le contexte métier et les données viennent de JEDHA ; Tinder est un cas d'étude pédagogique, sans lien avec l'entreprise ni mission réelle.
+
+Ce dépôt rassemble mon travail sur ce cas : analyse exploratoire et visualisation. Les résultats annoncés plus bas sont ceux du notebook du dépôt.
 
 ---
 
